@@ -1,0 +1,179 @@
+#body-pp{
+    background-image: url(fotocamara1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.borde-logo{
+    border-radius: 50%;
+    height: 8rem;
+    width: 9rem;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+    font-family: "Krub", sans-serif;
+    font-weight: bold;
+    font-size: 0.9rem !important;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: center;
+    background-color: #e5e5e6;
+    opacity: 0.6;
+    margin: 0 260px;
+    border-radius: 22px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+}
+.container-carru {
+    border-radius: 2rem !important;
+}
+h1{
+    font-size: 5.5rem;
+    font-family: "La Belle Aurore", cursive;
+}
+span{
+    color: #8080D4;
+    font-size: 2.1rem;
+    font-family: "Krub", sans-serif;
+}
+.boton{
+    opacity: 0.6;
+    color: black;
+    font-weight: bold;
+    font-family: "Krub", sans-serif;
+}
+.barra-nav{
+   top: 1.5rem;
+}
+.pie{
+    background-image: url(fotocamara1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    bottom: 3rem; 
+    width: 100%
+}
+.pie-span{
+    font-size: 1rem !important;
+    color: #e5e5e6 !important;
+}
+p{
+    color: #c7b25d;
+    font-family:"Krub", sans-serif;
+    font-size: 1.7rem;
+    font-weight:inherit;
+}
+#p-parrafo{
+    color: #c7b25d;
+    font-family:"Krub", sans-serif;
+    font-size: 1.3rem;
+    font-weight:inherit;
+}
+.iconos{
+    color: #e5e5e6;
+    font-size: 2rem;
+}
+.btn{
+    border-radius: 22px;
+    background-color: #e5e5e6 !important;
+}
+#color-a{
+    color: #c7b25d;
+    font-family: "La Belle Aurore", cursive;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+.imagen-ta{
+    width: 100%;
+    height: 400px;
+}
+
+#titulo-se{
+    font-size: 0.9rem;
+    color: #8080D4;
+}
+
+.circulo{
+    border-radius: 50%;
+    background-color: #8080D4;
+    height: 9.8rem;
+    width: 9.8rem;
+    margin-left: auto;
+}
+h4{
+    font-size: 1.02rem;
+    color: #8080D4;
+    font-family:"Krub", sans-serif; 
+}
+.ver{
+    text-align: center;
+}
+.sombra{
+    -webkit-box-shadow: 2px 3px 4px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 3px 4px -1px rgba(0,0,0,0.75);
+     box-shadow: 2px 3px 4px -1px rgba(0,0,0,0.75);
+     background-color: #e5e5e6 ;
+     padding: 2rem;
+     border-radius: 2rem;
+}
+.icono-ser{
+    font-size: 6rem !important;
+    color:#e5e5e6 !important;
+}
+.btn-s{
+    background-color: #8080D4 !important;
+    color: #e5e5e6 !important;
+    font-family:"Krub", sans-serif;
+}
+h2{
+    color: #c7b25d;
+    font-size: 4rem;
+    font-family: "La Belle Aurore", cursive;
+}
+
+#letras-formulario{
+    color: #8080D4;
+    font-family:"Krub", sans-serif; 
+    font-size: 1rem;
+}
+.card{
+    margin-left: 2rem !important;
+    margin-right: 2rem !important;
+}
+.letra-titulo-modal{
+    font-family: "La Belle Aurore";
+    font-size: 2rem !important;
+}
+#letra-modal{
+    font-family: "Krub";
+    font-size: 1rem;
+    color: #8080D4;
+}
+.card-img-top{
+    height: 14.9rem !important;
+}
+.texto-h4{
+    margin-left: auto;
+}
+.alinear{
+    display: flex;
+    justify-content:center;
+}
